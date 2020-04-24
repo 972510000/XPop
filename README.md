@@ -27,3 +27,4 @@ pod 'XPop'
 ## License
 
 XPop is available under the MIT license. See the LICENSE file for more info.
+Pop
